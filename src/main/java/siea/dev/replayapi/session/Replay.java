@@ -2,17 +2,6 @@ package siea.dev.replayapi.session;
 
 public class Replay {
 
-    //From File
-    public Replay(){
-        registerListeners();
-    }
-
-    //From Mysql
-    public Replay(){
-        registerListeners();
-    }
-
-    //From MongoDB
     public Replay(){
         registerListeners();
     }
