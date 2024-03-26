@@ -1,0 +1,7 @@
+name: ReplayAPI
+version: '${project.version}'
+main: siea.dev.replayapi.ReplayAPI
+api-version: '1.20'
+load: STARTUP
+authors: [sieadev]
+website: siea.dev
