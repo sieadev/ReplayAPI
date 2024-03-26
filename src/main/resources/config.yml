@@ -1,0 +1,7 @@
+
+
+
+
+# Storage Type
+# [FILE, MYSQL, MONGODB]
+storage-type: FILE

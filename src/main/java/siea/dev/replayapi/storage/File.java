@@ -1,2 +1,4 @@
-package siea.dev.replayapi.storage;public class File {
+package siea.dev.replayapi.storage;
+
+public class File {
 }

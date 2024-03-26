@@ -1,2 +1,4 @@
-package siea.dev.replayapi.storage;public class MongoDB {
+package siea.dev.replayapi.storage;
+
+public class MongoDB {
 }
