@@ -1,7 +1,11 @@
 package siea.dev.replayapi.session;
 
-public class Replay {
+import siea.dev.replayapi.session.events.ReplayEvent;
 
+import java.util.HashMap;
+
+public class Replay {
+    private HashMap<ReplayEvent, Long> timeLine = new HashMap<>();
     public Replay(){
         registerListeners();
     }
